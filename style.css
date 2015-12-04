@@ -1,0 +1,8 @@
+li {
+	display: inline-block;
+} 
+.menu li {
+	border: solid 2px green;
+	margin-left: 10px;
+	cursor: pointer;
+}    

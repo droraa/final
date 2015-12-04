@@ -1,0 +1,38 @@
+[
+	{
+		"medicineId": "1110024100",
+		"genericName": "LORATADINE",
+		"CommercialName": "ALLERGYX TAB 10MG 10"
+	}, {
+		"medicineId": "1111946035",
+		"genericName": "PARACETAMOL",
+		"CommercialName": "DEXAMOL CPL 500MG 20"
+	}, {
+		"medicineId": "1111575975",
+		"genericName": "COLCHICINE",
+		"CommercialName": "COLCHICINE TAB 0.5MG 30"
+	}, {
+		"medicineId": "1110033869",
+		"genericName": "DUTASTERIDE",
+		"CommercialName": "AVODART CAP 0.5MG 30"
+	}, {
+		"medicineId": "1110675208",
+		"genericName": "CEFALEXIN",
+		"CommercialName": "CEFOVIT 500 CAP 500MG 20"
+	}
+	}, {
+		"medicineId": "1000033390",
+		"genericName": "CILAZAPRIL",
+		"CommercialName": "CILARIL TAB 5MG 28"
+	}
+	}, {
+		"medicineId": "1110031181",
+		"genericName": "CIPROFLOXACIN",
+		"CommercialName": "CIPRODEX TAB 500MG BOX 10"
+	}
+	}, {
+		"medicineId": "1000054519",
+		"genericName": "FUROSEMIDE",
+		"CommercialName": "FUSID TAB 40MG 30"
+	}
+]
